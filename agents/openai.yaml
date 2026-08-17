@@ -1,0 +1,8 @@
+interface:
+  display_name: "AI 产品经理个人写作"
+  short_description: "分阶段写出专业、克制、有实操判断的 AI 产品文章"
+  default_prompt: "使用 $ai-pm-personal-writing，先和我讨论文章观点，再确认大纲，随后逐章写一篇面向 AI 产品经理的专业文章。"
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: true
